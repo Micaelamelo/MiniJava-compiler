@@ -1,0 +1,22 @@
+class A{
+
+public Object a1;
+public System a4;
+public A a3;
+public int a2;
+
+	dynamic void m1(){
+	A a;
+	A b;
+		a=this;
+	}
+
+}
+
+
+class B extends A{
+
+	static void main(){}
+
+}
+

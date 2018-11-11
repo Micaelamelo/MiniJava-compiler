@@ -1,0 +1,20 @@
+// Variable local inicializada solo en un if
+
+class Main {
+
+	static void main() {}
+
+}
+
+class A {
+
+	dynamic int m1() {
+		int c;
+		if (true) {
+			c = 1;
+		}
+		int a;
+		a = c + 1;
+	}
+
+}

@@ -1,0 +1,46 @@
+class Led{
+
+	public int a;
+	private int b;
+
+	dynamic void zeppelin(){
+
+	}
+
+	dynamic boolean pink(){
+
+	}
+
+	static int floyd(){
+
+	}
+
+	dynamic String the(){
+
+	}
+
+	static Big doors(){
+
+	}
+
+	dynamic void deep(){
+
+	}
+
+	static String purple(){
+
+	}
+
+	static void ac(){
+
+	}
+	static void dc(){
+
+	}
+	static void artic(){
+
+	}
+	static void monkeys(boolean a){
+
+	}
+}  

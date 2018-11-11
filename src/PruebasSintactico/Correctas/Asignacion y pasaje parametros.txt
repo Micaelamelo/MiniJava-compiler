@@ -1,0 +1,21 @@
+class Clase{
+	dynamic void clasesss(){
+		Tree a;
+		a = new Tree();
+
+		int g;
+		g=a.lenght;
+	
+		
+	}
+
+	dynamic void clasess(int a, String b, char s){
+		Tree a;
+		a = new Tree();
+
+		int g;
+		g=a.lenght;
+	
+		
+	}
+}      

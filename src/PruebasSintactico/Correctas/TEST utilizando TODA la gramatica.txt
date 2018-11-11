@@ -1,0 +1,60 @@
+class Clase extends Hardcore{
+       
+    public int x, y, z;
+    private boolean[] x;
+    public Clase3 clase;
+ 
+ 
+    Clase (int param1, String param2, boolean param3, int [] arreglo){
+        int x, x, y ;
+        x = 5;
+        while(true){
+            x = 5;
+            int x;
+            while(false){
+                while(null){
+                    while(arreglo[5] == this[5].super(x,5,null)){
+                        (Sepudre.todo());
+                    }
+                }
+            }
+        }
+        x = ! null || true && 5 + 'a' + "hola" - 40 ;
+
+        if(null || true && 5 + 'a' + "hola" - 40){
+            int x;
+            char y;
+            String z;
+        }
+        else{
+            if(true){
+                this.pruebaAsignacion()  = 5;
+                prueba.prueba2()[5] = 4;
+                int numerillos;
+                numerillos = 5;
+            }
+            else{
+                x = 6;;;;;;;;;;
+                acceso = this[null];
+                x = new Calse(5, 5, null, x == y, z>= 8, c<=4, 4|| 5, ":)", true, false);
+                return 5;
+                x = Clase.todo();
+                arregloPrimitivo = new boolean [5 || 4].accesos.llamadaEncadenada(5,18,5)[4].otraLlamada()[variable];  
+            }
+        }
+    }
+
+   static void metodo(int i, boolean x, Clase p, char[] x){
+   
+    }
+
+    dynamic int[] metodo2(){
+        ;;;
+        {;;;;;;;;;;;;;}
+        {}
+        {}
+        int z;
+        (metodo());
+    }
+}
+  

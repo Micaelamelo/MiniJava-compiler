@@ -1,0 +1,22 @@
+// Atributo heredado inaccesible
+
+class Main {
+
+	static void main() {}
+
+}
+
+class B extends A {
+
+	dynamic void m1() {
+		int b;
+		b = a + 1;
+	}
+
+}
+
+class A {
+
+	private int a;
+
+}

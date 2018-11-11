@@ -1,0 +1,11 @@
+class Android{
+	private char c;
+	private char d;
+
+	dynamic char samsung(){
+		(this.c);
+		(this.d);
+	}
+
+
+} 

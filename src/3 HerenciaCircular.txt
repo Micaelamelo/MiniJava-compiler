@@ -1,0 +1,32 @@
+class A extends B{
+
+}
+class C extends D{
+	
+}
+class D{
+	
+}
+class B extends A{
+	
+}
+	
+class E{
+	
+}
+class F extends C{
+	
+}
+class J extends K{
+	
+}
+class L{
+	
+}
+
+//main
+class Principal{
+	static void main(){
+
+	}
+} 

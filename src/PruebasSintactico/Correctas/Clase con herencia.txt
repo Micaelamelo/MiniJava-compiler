@@ -1,0 +1,11 @@
+class Clase extends Clase2{
+	
+}
+
+class Clase1{
+
+}
+
+class Clase3 extends Clase4{
+
+}     

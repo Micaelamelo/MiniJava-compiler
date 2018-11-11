@@ -1,0 +1,6 @@
+class Clase{
+	static String metodo(){
+		Objeto o;
+		o.llamar().Llamar().llamar();
+	}
+} 

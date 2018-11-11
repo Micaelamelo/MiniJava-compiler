@@ -1,0 +1,6 @@
+class Clase{
+	static void metodo(String arg){
+		arg=null;
+		arg=public;
+	}
+}   

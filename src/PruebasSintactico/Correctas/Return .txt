@@ -1,0 +1,15 @@
+class Jaja{
+	static int jeje(String args){
+		return 2<3;
+	}
+	static int jojo(String args){
+		return 2==3;
+	}
+	static int juju(String args){
+		return 2!=3;
+	}
+	static int jiji(String args){
+		return 23;
+	}
+
+}        

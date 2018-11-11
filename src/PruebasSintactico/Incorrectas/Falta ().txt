@@ -1,0 +1,7 @@
+class Clase {
+
+	dynamic public void metodo {
+
+	}
+
+}    

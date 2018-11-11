@@ -1,0 +1,7 @@
+class Clase {
+
+	dynamic void metodo(String str; int num) {
+		//se esperaba coma no punto y coma
+	}
+
+} 

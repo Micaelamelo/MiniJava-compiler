@@ -1,0 +1,3 @@
+// Caracter invalido entre identificadores
+
+id1$id2     

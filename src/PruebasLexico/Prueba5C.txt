@@ -1,0 +1,17 @@
+class extends static dynamic
+void boolean char int String
+
+// Comentario
+
+public protected private final // Comentario
+if else while return
+this new null true false
+
+/*
+Comentario multilinea
+*/
+
+><!>=<=!=+-*/&&||===
+"asd"'a''\n''\M' 123 '\t'abc123 Abc 
+
+// Comentario      

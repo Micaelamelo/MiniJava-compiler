@@ -1,0 +1,9 @@
+class Clase23{
+	static void main(String args){
+		Objeto o;
+		o = new Objeto();
+
+		Objeto i;
+		i = new Integer(10);
+	}
+}  

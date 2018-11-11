@@ -1,0 +1,8 @@
+class CM{
+	dynamic void mc(){
+		Arbol a;
+		a = new Arbol();
+		int g;
+		g == a.lenght;
+	}
+}  

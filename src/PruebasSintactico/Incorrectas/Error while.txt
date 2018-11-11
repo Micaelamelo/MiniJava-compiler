@@ -1,0 +1,7 @@
+class Clase {
+
+	static void metodo() {
+		while
+	}
+
+}

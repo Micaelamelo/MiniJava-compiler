@@ -1,0 +1,10 @@
+Nombre token: String | Lexema: eso deberia funcionar | Nro linea: 1 | Nro columna: 1
+------------------------------------------------------------------------------------
+Nombre token: String | Lexema: esto definitivamente \n funcionara | Nro linea: 3 | Nro columna: 1
+------------------------------------------------------------------------------------
+Nombre token: String | Lexema: pues claro que \t que si | Nro linea: 5 | Nro columna: 1
+------------------------------------------------------------------------------------
+Nombre token: String | Lexema: String con caracter invalido $$$$ | Nro linea: 7 | Nro columna: 1
+------------------------------------------------------------------------------------
+Nombre token: EOF | Lexema: End Of File | Nro linea: 7 | Nro columna: 39
+------------------------------------------------------------------------------------

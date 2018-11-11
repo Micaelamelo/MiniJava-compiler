@@ -1,0 +1,19 @@
+// Comentario 
+/* Comentario
+ multilinea  */
+/*
+ Comentario
+ multilinea 
+*/
+
+	// Comentario
+
+	/* Comentario multilinea 
+
+
+
+
+
+
+
+*/    

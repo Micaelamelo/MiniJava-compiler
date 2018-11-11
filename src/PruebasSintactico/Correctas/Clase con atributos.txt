@@ -1,0 +1,22 @@
+class Clase extends Clase1{
+	public int a;
+	public int b;
+}
+
+class Clase1{
+
+	private String a;
+	public String b;
+	private char c;
+	public char d;
+	public boolean e;
+	private boolean f;
+	public Clase g;
+	private Clase h;
+	public boolean[] i;
+	private boolean[] j;
+	public char[] k;
+	private char[] l;
+	public int[] m;
+	private int[] n;
+}   

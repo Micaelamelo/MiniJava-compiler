@@ -1,0 +1,152 @@
+class Clase extends Hardcore{
+       
+    public int x, y, z;
+    private boolean[] x;
+    public Clase3 clase;
+ 
+
+    Clase (int param1, String param2, boolean param3, int [] arreglo){
+        int x, x, y ;
+        x = 5;
+        while(true){
+            x = 5;
+            int x;
+            while(false){
+                while(null){
+                    while(arreglo[5] == this[5].super(x,5,null)){
+                        (Sepudre.todo());
+                    }
+                }
+            }
+        }
+        x = ! null || true && 5 + 'a' + "hola" - 40 ;
+
+        if(null || true && 5 + 'a' + "hola" - 40){
+            int x;
+            char y;
+            String z;
+        }
+        else{
+            if(true){
+                this.pruebaAsignacion()  = 5;
+                prueba.prueba2()[5] = 4;
+                int numerillos;
+                numerillos = 5;
+            }
+            else{
+                x = 6;;;;;;;;;;
+                acceso = this[null];
+                x = new Calse(5, 5, null, x == y, z>= 8, c<=4, 4|| 5, ":)", true, false);
+                return 5;
+                x = Clase.todo();
+                arregloPrimitivo = new boolean [5 || 4].accesos.llamadaEncadenada(5,18,5)[4].otraLlamada()[variable];  
+            }
+        }
+    }
+
+   static void metodo(int i, boolean x, Clase p, char[] x){
+   
+    }
+
+    dynamic int[] metodo2(){
+        ;;;
+        {;;;;;;;;;;;;;}
+        {}
+        {}
+        int z;
+        (metodo());
+    }
+}
+
+class Clase{
+	dynamic void clasesss(){
+		Tree a;
+		a = new Tree();
+
+		int g;
+		g=a.lenght;
+	
+		
+	}
+
+	dynamic void clasess(int a, String b, char s){
+		Tree a;
+		a = new Tree();
+
+		int g;
+		g=a.lenght;
+	
+		
+	}
+}
+
+class LedZeppelin{
+	dynamic void robert(String plant){
+		roger="waters";
+		char a;
+		a='a';
+		int b;
+		b=10;
+		boolean c;
+		c=true;
+		Clase p;
+		p=new Clase();
+	}
+}
+
+class Clase extends Clase1{
+	public int a;
+	public int b;
+}
+
+class Clase1{
+
+	private String a;
+	public String b;
+	private char c;
+	public char d;
+	public boolean e;
+	private boolean f;
+	public Clase g;
+	private Clase h;
+	public boolean[] i;
+	private boolean[] j;
+	public char[] k;
+	private char[] l;
+	public int[] m;
+	private int[] n;
+}
+
+class Clase23{
+	static void main(String args){
+		Objeto o;
+		o = new Objeto();
+
+		Objeto i;
+		i = new Integer(10);
+	}
+}
+
+class Clase {
+
+	dynamic void metodo() {
+		a = (b > 10);
+		(b.metodo(c.m(), d.m()));
+		e = T.m().m().m();
+		if (b.metodo().metodo().metodo()) {}
+		while (b.metodo().metodo().metodo()) {}
+		(e.metodo(c.m(), d.m()).metodo(f.m()).metodo(g.m(c.m(), d.m())));
+		if (b.metodo().m() == c.metodo().m()) {}
+		if ((b.m() > c.m()) || (d.m() > e.m())) { a = (f.m()); }
+		while (((b.m() || c.m()) && (d.m() || e.m())) || (b.m() && d.m())) {}
+		(a.m.m.m.m.m.m.m.m.m);
+		(b.m(b.m(b.m(b.m(a)))));
+		a = b.c.d();
+		b = c.d(e.f.g()).h();
+		(e.metodo(a == b, c == d));
+		f = T.metodo(((a > b) || (c < d)), a != b, (g && h));
+}	
+
+}
+
+              

@@ -1,0 +1,9 @@
+//Cadenas correctas de strings
+
+"eso deberia funcionar"
+
+"esto definitivamente \n funcionara"
+
+"pues claro que \t que si"
+
+"String con caracter invalido $$$$"      
