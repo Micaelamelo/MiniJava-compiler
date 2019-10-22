@@ -12,10 +12,10 @@ Lenguaje que es una simplificación del lenguaje Java. En este lenguaje no se co
 
 Fue implementado con el lenguaje Java y se dividió en 4 etapas:
 
-1- Analizador Léxico. \n
-2- Analizador Sintáctico.
-3- Analizador Semántico (1 parte).
-4- Analizador Semántico (2 parte).
-5- Generación de Código.
+1- Analizador Léxico.  
+2- Analizador Sintáctico.  
+3- Analizador Semántico (1 parte).  
+4- Analizador Semántico (2 parte).  
+5- Generación de Código.  
 
 
